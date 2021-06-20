@@ -2,8 +2,8 @@
 <b>Proyecto ReactNativeGen2 (ContextApi + Hooks)</b>
 
 Credenciales de acceso: 
-</br>Usuario: admin
-</br>Contraseña: admin
+</br><b>Usuario:</b> admin
+</br><b>Contraseña:</b> admin
 
 </br>API utilizada:
 </br>https://rapidapi.com/theapiguy/api/free-nba?endpoint=apiendpoint_803ecac3-bd2c-46ba-ab85-d432f3e4d313
