@@ -1,8 +1,7 @@
 # proyectoReactNativeGen2
 Proyecto ReactNativeGen2 (ContextApi + Hooks) 
 
-Credenciales de acceso:
-Usuario: admin
+Credenciales de acceso: </br>Usuario: admin
 Contraseña: admin
 
 API utilizada:
