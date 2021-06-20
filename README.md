@@ -1,5 +1,5 @@
 # proyectoReactNativeGen2
-Proyecto ReactNativeGen2 (ContextApi + Hooks) 
+<b>Proyecto ReactNativeGen2 (ContextApi + Hooks)</b>
 
 Credenciales de acceso: 
 </br>Usuario: admin
