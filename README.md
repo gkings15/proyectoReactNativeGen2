@@ -1,14 +1,14 @@
 # proyectoReactNativeGen2
 <b>Proyecto ReactNativeGen2 (ContextApi + Hooks)</b>
 
-Credenciales de acceso: 
+<b>Credenciales de acceso:</b> 
 </br><b>Usuario:</b> admin
 </br><b>Contraseña:</b> admin
 
-</br>API utilizada:
+</br><b>API utilizada:</b>
 </br>https://rapidapi.com/theapiguy/api/free-nba?endpoint=apiendpoint_803ecac3-bd2c-46ba-ab85-d432f3e4d313
 
-</br>Librerias instaladas:
+</br><b>Librerias instaladas:</b>
 </br>yarn add @react-navigation/native
 </br>yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
 </br>yarn add @react-navigation/stack
